@@ -1,4 +1,10 @@
-﻿// Console.Write("1. Sayi: ");
+
+public class String
+{
+    public static void Run()
+    {
+
+// Console.Write("1. Sayi: ");
 // var sayi1 = Convert.ToInt32(Console.ReadLine()); 
 
 // Console.Write("2. Sayi: ");
@@ -58,3 +64,7 @@ Console.WriteLine("sonuç9: " +sonuc9);
 Console.WriteLine("sonuç10: " +sonuc10);
 Console.WriteLine("sonuç9: " +sonuc9);
 Console.WriteLine("sonuç11: " +sonuc11);
+
+
+    }
+}

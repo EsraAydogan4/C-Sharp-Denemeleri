@@ -12,3 +12,4 @@ C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\refint\consolapp.dll
 C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.pdb
 C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.genruntimeconfig.cache
 C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\ref\consolapp.dll
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.sourcelink.json
