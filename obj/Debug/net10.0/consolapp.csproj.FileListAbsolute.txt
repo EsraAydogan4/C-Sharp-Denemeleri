@@ -1,0 +1,14 @@
+C:\Users\esra2\Desktop\C#\consolapp\bin\Debug\net10.0\consolapp.exe
+C:\Users\esra2\Desktop\C#\consolapp\bin\Debug\net10.0\consolapp.deps.json
+C:\Users\esra2\Desktop\C#\consolapp\bin\Debug\net10.0\consolapp.runtimeconfig.json
+C:\Users\esra2\Desktop\C#\consolapp\bin\Debug\net10.0\consolapp.dll
+C:\Users\esra2\Desktop\C#\consolapp\bin\Debug\net10.0\consolapp.pdb
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.AssemblyInfoInputs.cache
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.AssemblyInfo.cs
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.csproj.CoreCompileInputs.cache
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.dll
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\refint\consolapp.dll
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.pdb
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\consolapp.genruntimeconfig.cache
+C:\Users\esra2\Desktop\C#\consolapp\obj\Debug\net10.0\ref\consolapp.dll
