@@ -1,6 +1,6 @@
 ﻿
 
-    
+
 //   Uygulama1.Run();
 //   String.Run();
 //   Date.Run();
@@ -8,4 +8,7 @@
 //   Array.Run(); 
 //   Ogrenci.Run();
 //   Uygulama2.Run();
-   Uygulama3.Run();
+//   Uygulama3.Run();
+   Files.Run();
+
+
