@@ -9,6 +9,9 @@
 //   Ogrenci.Run();
 //   Uygulama2.Run();
 //   Uygulama3.Run();
-   Files.Run();
+//   Files.Run();
+//   ObjectOriented.Run();
+   ObjectPractice.Run();
+
 
 
