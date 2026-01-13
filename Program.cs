@@ -13,6 +13,10 @@
 //   ObjectOriented.Run();
 //   ObjectPractice.Run();
 //   Constructor.Run();
+
+
+      //STATİC METHOD KULLANIM ÖRNEĞİ \\
+
    var sonuc = Methods.karakter("ölçme ölderme");
    Console.WriteLine(sonuc);
    class Methods
