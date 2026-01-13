@@ -11,7 +11,26 @@
 //   Uygulama3.Run();
 //   Files.Run();
 //   ObjectOriented.Run();
-   ObjectPractice.Run();
+//   ObjectPractice.Run();
+//   Constructor.Run();
+   var sonuc = Methods.karakter("ölçme ölderme");
+   Console.WriteLine(sonuc);
+   class Methods
+   {
+      public static string karakter(string t)
+      {
+         
+         
+         return
+            t.Replace("ö", "o")
+            .Replace("ğ", "g")
+            .Replace(" ", "-");
+      }
+      
+
+   }
+
+
 
 
 
