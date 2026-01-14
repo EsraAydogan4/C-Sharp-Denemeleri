@@ -13,26 +13,26 @@
 //   ObjectOriented.Run();
 //   ObjectPractice.Run();
 //   Constructor.Run();
-
+//   Collections.Run();
+//   GenericList.Run();
+//   Dictionary.Run();
 
       //STATİC METHOD KULLANIM ÖRNEĞİ \\
 
-   var sonuc = Methods.karakter("ölçme ölderme");
-   Console.WriteLine(sonuc);
-   class Methods
-   {
-      public static string karakter(string t)
-      {
-         
-         
-         return
-            t.Replace("ö", "o")
-            .Replace("ğ", "g")
-            .Replace(" ", "-");
-      }
+   // var sonuc = Methods.karakter("ölçme ölderme");
+   // Console.WriteLine(sonuc);
+   // class Methods
+   // {
+   //    public static string karakter(string t)
+   //    {
+   //       return
+   //          t.Replace("ö", "o")
+   //          .Replace("ğ", "g")
+   //          .Replace(" ", "-");
+   //    }
       
 
-   }
+   // }
 
 
 
